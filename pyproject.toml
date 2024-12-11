@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "groupprojectassignment4"
+version = "0.1.0"
+description = ""
+authors = ["Vincent <v3rdugo@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.9.2"
+tqdm = "^4.67.1"
+dask = "^2024.11.2"
+dask-expr = "^1.1.19"
+scikit-learn = "^1.5.2"
+transformers = "^4.46.3"
+
+[tool.poetry.extras]
+dataframe = ["dask"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
