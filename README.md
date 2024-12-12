@@ -28,8 +28,8 @@ This repository contains the final project for **COMP 541** by Vincent Verdugo a
 ---
 ## Authors
 This project was developed as part of the final project for **COMP 541**:
-- **[Monitha Davuluri]**: [@dmonitha]
-- **[Vincent Verdugo]**: [@vdugo]
+- **Monitha Davuluri**: @dmonitha
+- **Vincent Verdugo**: @vdugo
 
 ---
 
